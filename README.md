@@ -8,6 +8,7 @@
 ## Setup Windows
 
 * gradle.bat bootRun
+* http://localhost:8080/participants
 
 ## Generate eclipse project files
 
