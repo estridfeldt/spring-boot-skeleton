@@ -2,21 +2,21 @@
 
 ## Setup Mac/Linux
 
-* gradle bootRun
+* ./gradlew bootRun
 * http://localhost:8080/participants
 
 ## Setup Windows
 
-* gradle.bat bootRun
+* gradlew.bat bootRun
 * http://localhost:8080/participants
 
 ## Generate eclipse project files
 
 ### Mac/linux
 
-* gradle eclipse
+* ./gradlew eclipse
 
 ### Windows
 
-* gradle.bat eclipse
+* gradlew.bat eclipse
 
